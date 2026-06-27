@@ -12,14 +12,13 @@
 *   **Asignatura:** LÓGICA DE PROGRAMACIÓN 1-SIN-1B
 *   **Docente Tutor:** Mgs. Estefanía Vanessa Heredia Jiménez
 *   **Fecha:** Junio 2026
-*   **Sede:** Ambato, Ecuador
 
 ---
 
 ## 🎯 1. Objetivo del Sistema
 El propósito fundamental de este sistema es diseñar e implementar una solución informática modular y de acoplamiento débil para el juego de lógica clásica "Piedra, Papel o Tijera". El software busca:
 1.  **Validar la separación de responsabilidades** mediante la aplicación estricta del patrón de diseño arquitectónico **Modelo-Vista-Controlador (MVC)**, garantizando que el núcleo lógico sea 100% independiente de la interfaz de usuario.
-2.  **Simular un entorno estratégico justo y equitativo** aplicando los conceptos matemáticos del *Equilibrio de Nash* (Teoría de Juegos) a través de un Generador de Números Pseudoaleatorios (PRNG) con una distribución de probabilidad uniforme ($P = 1/3$).
+2.  **Simular un entorno estratégico justo y equitativo** aplicando los conceptos matemáticos del *Equilibrio de Nash* (Teoría de Juegos) a través de un Generador de Números Pseudoaleatorios (PRNG) con una distribución de probabilidad uniforme (P = 1/3).
 3.  **Evidenciar el impacto de las nuevas tecnologías** en la resolución automatizada de conflictos lúdicos y la correcta persistencia temporal del estado del sistema (control de marcadores y sesiones).
 
 ---
