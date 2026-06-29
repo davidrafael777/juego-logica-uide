@@ -68,3 +68,7 @@ El proyecto está organizado bajo la estructura modular estándar:
 │   └── diagrama_arquitectura.png # Flujo de capas del patrón MVC
 ├── Main.py                       # Punto de entrada del programa
 └── README.md                     # Documentación técnica obligatoria
+
+---
+
+🔗 **[Enlace Oficial a las Evidencias del Proyecto (Video y Capturas)](https://photos.app.goo.gl/MG1PMoomo43QG9dh8)**
