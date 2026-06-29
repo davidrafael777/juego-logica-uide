@@ -50,6 +50,10 @@ Para cumplir con el requerimiento de acoplamiento débil, el código fuente est�
 
 ---
 
+**[Enlace Oficial a las Evidencias del Proyecto (Video y Capturas)](https://photos.app.goo.gl/MG1PMoomo43QG9dh8)**
+
+---
+
 ## ⚙️ 4. Estructura del Repositorio y Archivos
 El proyecto está organizado bajo la estructura modular estándar:
 ```bash
@@ -69,6 +73,4 @@ El proyecto está organizado bajo la estructura modular estándar:
 ├── Main.py                       # Punto de entrada del programa
 └── README.md                     # Documentación técnica obligatoria
 
----
 
-🔗 **[Enlace Oficial a las Evidencias del Proyecto (Video y Capturas)](https://photos.app.goo.gl/MG1PMoomo43QG9dh8)**
